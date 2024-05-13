@@ -15,7 +15,7 @@ bool buttonState = false;  // Variable to store the current state of the button
 bool lastButtonState = false; // Variable to store the previous state of the button
 
 char column_name_in_sheets[][24] = {"Temperature", "Humidity"};
-String Sheets_GAS_ID = "AKfycbwVgSTykwot5kG7T7PaUlMhlmISvjy95xj2Fn2plgBObi5FJZaQzYWsNxXF-VT1UcUD";
+String Sheets_GAS_ID = "###############################################";
 int No_of_Parameters = 2;
 
 void setup() {
